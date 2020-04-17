@@ -1,0 +1,1 @@
+<img alt="live-streaming-on-aws-architecture" title="live-streaming-on-aws-architecture" src="//d1.awsstatic.com/Solutions/Solutions%20Category%20Template%20Draft/Solution%20Architecture%20Diagrams/live-streaming-on-aws-architecture.af9074fc8bcad35d6b708002ff97d956f9d36284.png">
